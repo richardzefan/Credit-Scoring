@@ -1,5 +1,4 @@
 # Credit-Scoring
-Project Based Intern ID/X Partner
 
 ### Dataset Download : https://drive.google.com/file/d/1gE9_IkgNVI66gKiHy1h9N-9KQQmpSp0D/view?usp=sharing
 
