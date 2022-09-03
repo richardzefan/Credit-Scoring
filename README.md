@@ -1,6 +1,6 @@
 # Credit-Scoring
 
-### PDF Result Report : https://drive.google.com/file/d/1O5yPAHfEUak-PEdeK97F_Qr90tooM4LN/view?usp=sharing
+### PDF Result Report : https://drive.google.com/file/d/1od7PU5r-PUWzr9jR46ZU61T7Et85yNPa/view?usp=sharing
 
 ### Dataset Download : https://drive.google.com/file/d/1gE9_IkgNVI66gKiHy1h9N-9KQQmpSp0D/view?usp=sharing
 
