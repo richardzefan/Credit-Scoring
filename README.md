@@ -1,4 +1,4 @@
-# Credit-Scoring
+# Credit-Scoring (ID/X Partner Intern)
 
 ### PDF Result Report : https://drive.google.com/file/d/1od7PU5r-PUWzr9jR46ZU61T7Et85yNPa/view?usp=sharing
 
