@@ -3,8 +3,7 @@
 <h2> PDF Report Link <a href="https://www.canva.com/design/DAFCwu3aDLw/g_GlJl0elbGrmTn4QmgP-A/view?utm_content=DAFCwu3aDLw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">HERE</a>
  <br/> </h2>
 
-![image](https://user-images.githubusercontent.com/66706999/189898558-b6d5076d-5b66-43e1-a1f8-001d2e6a0476.png)
-
+![image](https://user-images.githubusercontent.com/66706999/189899190-391e75ea-3212-4e66-bcd6-090bec91e774.png)
 
 <h2>Dataset Download <a href="https://drive.google.com/file/d/1gE9_IkgNVI66gKiHy1h9N-9KQQmpSp0D/view?usp=sharing">HERE</a>
  <br/> </h2>
