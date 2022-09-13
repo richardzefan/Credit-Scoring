@@ -1,4 +1,5 @@
-# Credit-Scoring (ID/X Partner Intern)
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
 
 <h2> PDF Report Link <a href="https://www.canva.com/design/DAFCwu3aDLw/g_GlJl0elbGrmTn4QmgP-A/view?utm_content=DAFCwu3aDLw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">HERE</a>
  <br/> </h2>
